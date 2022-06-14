@@ -9,3 +9,5 @@
 - 📫 Como entrar em contato comigo: por e-mail 'julianakolmar@gmail.com'
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: ...
+
+<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/julianahkolmar/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
