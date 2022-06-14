@@ -2,7 +2,10 @@
 ### Meu nome é Juliana!
 
 - 🔭 Atualmente estou trabalhando na empresa Warren Brasil como jovem aprendiz na área de tecnologia.
-- 🌱 Atualmente estou aprendendo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 20px; width: 20px;/>
+- 🌱 Atualmente estou aprendendo 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 20px; width: 20px;"/>
+                                                                                                
  - 😄 Pronomes: ela/dela
 
 <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/julianahkolmar/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
