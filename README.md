@@ -2,7 +2,8 @@
 ### Meu nome é Juliana!
 
 - 🔭 Atualmente estou trabalhando na empresa Warren Brasil como jovem aprendiz na área de tecnologia.
-- 🌱 Atualmente estou aprendendo Node
+- 🌱 Atualmente estou aprendendo
+<i class="devicon-nodejs-plain colored"></i>
 - 👯 Estou procurando colaborar em ...
 - 🤔 Estou procurando ajuda com ...
 - 💬 Pergunte-me sobre ...
