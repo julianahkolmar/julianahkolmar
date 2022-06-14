@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando na empresa Warren Brasil como jovem aprendiz na área de tecnologia.
 - 🌱 Atualmente estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 40px; width: 40px; margin-top: 5px;"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="height: 40px; width: 40px; margin-top: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 40px; width: 40px; margin-top: 5px;"/>  <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="height: 40px; width: 40px; margin-top: 5px;" />
 
 
                                                                                                 
