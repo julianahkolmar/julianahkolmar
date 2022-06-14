@@ -3,8 +3,11 @@
 
 - 🔭 Atualmente estou trabalhando na empresa Warren Brasil como jovem aprendiz na área de tecnologia.
 - 🌱 Atualmente estou aprendendo 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 30px; width: 30px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="height: 30px; width: 30px;" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="height: 30px; width: 30px;" >
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 20px; width: 20px;"/>
+
                                                                                                 
  - 😄 Pronomes: ela/dela
 
