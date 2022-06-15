@@ -1,4 +1,4 @@
-## 👋 Olá! Bem vindo ao meu perfil do Github!
+## 👋🏼 Olá! Bem vindo ao meu perfil do Github!
 
 - 💻 Atualmente estou trabalhando na empresa Warren Brasil como jovem aprendiz na área de tecnologia.
 - 📚 Aluna de Graduação no curso de Análise e Desenvolvimento de Sistemas pela Unisinos. 
