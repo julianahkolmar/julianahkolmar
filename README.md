@@ -10,7 +10,7 @@
 
 - 💡 Conhecimento básico em
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="height: 45px; width: 45px; margin-top: 5px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="height: 45px; width: 45px; margin-top: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="height: 45px; width: 45px; margin-top: 5px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="height: 45px; width: 45px; margin-top: 5px;" />
 
 
                                                                                                 
