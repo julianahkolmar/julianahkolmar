@@ -2,7 +2,9 @@
 
 - 💻 Atualmente estou trabalhando na empresa Warren Brasil como jovem aprendiz na área de tecnologia.
 
-- 📚 Aluna de Graduação no curso de Análise e Desenvolvimento de Sistemas pela Unisinos. 
+- 📝 Estou cursando "Aprendizagem profissional de qualificação em programação de sistemas com aplicações financeiras", pelo Senac Tech - RS.
+
+- 👩🏻‍💻 Aluna de Graduação no curso de Análise e Desenvolvimento de Sistemas pela Unisinos. 
 
 - 🌱 Estou aprendendo:
 Node.js e Javascript.
