@@ -12,9 +12,6 @@ Node.js e Javascript.
 - 💡 Conhecimento básico/intermediário em:
 Java, Python, Vue.js, MySql, HTML e CSS.
 
-                                                                                                
- - 🌞 Pronomes: ela/dela
-
 ### Contato:
 
 <div>
