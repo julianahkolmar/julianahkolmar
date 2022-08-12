@@ -6,11 +6,10 @@
 
 - 👩🏻‍💻 Aluna de Graduação no curso de Análise e Desenvolvimento de Sistemas pela Unisinos. 
 
-- 🌱 Estou aprendendo:
-Node.js e Javascript.
+- 🌱 Estou aprendendo: Flutter
 
 - 💡 Conhecimento básico/intermediário em:
-Java, Python, Vue.js, MySql, HTML e CSS.
+Java, Python, Javascript, Vue.js, MySql, HTML e CSS.
 
 ### Contato:
 
