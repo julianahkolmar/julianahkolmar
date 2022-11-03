@@ -1,15 +1,13 @@
 ## 👋🏼 Olá! Bem vindo ao meu perfil do Github!
 
-- 💻 Atualmente estou trabalhando na empresa Warren Brasil como jovem aprendiz na área de tecnologia.
+👩🏻‍💻 Estagiária no time de Integração Web na @SocialSoul @TGroup.
 
-- 📝 Estou cursando "Aprendizagem profissional de qualificação em programação de sistemas com aplicações financeiras", pelo Senac Tech - RS.
+📚 Aluna de Graduação no curso de Análise e Desenvolvimento de Sistemas pela Unisinos - 2º semestre.
 
-- 👩🏻‍💻 Aluna de Graduação no curso de Análise e Desenvolvimento de Sistemas pela Unisinos. 
+👾 Possuo conhecimento básico/intermediário em:
+Java, Python, Dart, PHP, Javascript, MySql, HTML e CSS.
 
-- 🌱 Estou aprendendo: Flutter
-
-- 💡 Conhecimento básico/intermediário em:
-Java, Python, Javascript, Vue.js, MySql, HTML e CSS.
+🛠️ Realizei projetos como: página inicial de site, tela de cadastro com validações, calculadora simples, testes e manutenção de sistemas, desenvolver backend com as informações enviadas de um formulário, elaborar tela inicial de app, etc.
 
 ### Contato:
 
