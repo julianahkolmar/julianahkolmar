@@ -1,8 +1,8 @@
 ## 👋🏼 Olá! Bem vindo ao meu perfil do Github!
 
-👩🏻‍💻 Estagiária no time de Integração Web na @SocialSoul @TGroup.
+📚 Aluna de Graduação no curso de Análise e Desenvolvimento de Sistemas pela Unisinos - 3º semestre.
 
-📚 Aluna de Graduação no curso de Análise e Desenvolvimento de Sistemas pela Unisinos - 2º semestre.
+👩🏻‍💻 Analista de Analytics Jr. na @Hike
 
 👾 Possuo conhecimento básico/intermediário em:
 Java, Python, Dart, PHP, Javascript, MySql, HTML e CSS.
