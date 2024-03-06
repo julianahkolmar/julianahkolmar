@@ -1,6 +1,6 @@
 ## 👋🏼 Olá! Bem vindo ao meu perfil do Github!
 
-📚 Aluna de Graduação no curso de Análise e Desenvolvimento de Sistemas pela Unisinos - 3º semestre.
+📚 Aluna de Graduação no curso de Análise e Desenvolvimento de Sistemas pela Unisinos - 5º semestre.
 
 👩🏻‍💻 Analista de Analytics Jr. na @Hike
 
